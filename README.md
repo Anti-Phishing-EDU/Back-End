@@ -34,5 +34,6 @@ Exported by: pgAdmin (`pg\_dump`)
  | `api_logs` | AI/서버 API 호출 로그 |
 
 
+PostgreSQL을 다운 받고, pgAdmin4를 다운 받고 코드를 다운 받아 pgAdmin으로 실행하면 됩니다.
 
 
