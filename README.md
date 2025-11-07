@@ -2,16 +2,6 @@ Database Schema
 
 PostgreSQL 데이터베이스 구조입니다.  
 
-pgAdmin을 통해 생성 및 백업하였으며, 서버와 연동해야 합니다.
-
-
-
-DB Information
-DBMS: PostgreSQL 17  
-Exported by: pgAdmin (`pg\_dump`)  
-파일 위치: `/sql/schema.sql`   
-구성 목적: 퀴즈, 피싱 시나리오, 사용자 세션, 응답 로그 관리  
-
 
 테이블 구조
 
@@ -35,5 +25,6 @@ Exported by: pgAdmin (`pg\_dump`)
 
 
 PostgreSQL을 다운 받고, pgAdmin4를 다운 받고 코드를 다운 받아 pgAdmin으로 실행하면 됩니다.
+
 
 
